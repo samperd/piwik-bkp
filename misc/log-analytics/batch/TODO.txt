@@ -1,0 +1,38 @@
+This is the todo list for log_loader.py
+
+* Configuration structure
+	* General
+		* Piwik location
+		* piwik URL
+		* import_logs.py location
+		* username
+		* password
+		* API key
+		* email settings
+	* profile
+		* log location
+		* piwik profile
+		* URL
+		* logfile format with dates
+		* exclude paths by list
+		* exclude paths by file
+		* include paths by list
+		* include paths by file
+* Sqlite or other small DB 
+	* to track last lines read
+	* to track errors
+	* to track other stats
+	* track load time
+* Log output of script
+	* create readable log files as output or debaug
+* add command line options 
+	* to point to a config file or record
+	* point to a file of config files
+* use 1.12 verison of import_logs.py
+* script to setup and install basic config file
+* send reports via e-mail
+* UI
+	* web based
+	* piwik module
+* track script usage using PIWIK?
+

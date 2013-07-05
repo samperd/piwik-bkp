@@ -1,0 +1,16 @@
+This Piwik Log Loader Script uses and thus extends import_logs.py with the following features.
+
+Author: Dave Sampson david.sampson@nrcan-rncan.gc.ca
+
+
+* Support for log files not rotated daily
+* Configuration for exclude paths
+* Configuration for PIWIK
+* Keeps track of last log line read to support skip lines option
+
+Setup:
+
+/path/to/piwik/misc/loganalytics/
+                                __init__.py
+                                batch/
+                                import/

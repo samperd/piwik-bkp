@@ -1,0 +1,32 @@
+
+Logs import summary
+-------------------
+
+    0 requests imported successfully
+    0 requests were downloads
+    179 requests ignored:
+        179 invalid log lines
+        0 requests done by bots, search engines, ...
+        0 HTTP errors
+        0 HTTP redirects
+        0 requests to static resources (css, js, ...)
+        0 requests did not match any known site
+        0 requests did not match any requested hostname
+
+Website import summary
+----------------------
+
+    0 requests imported to 1 sites
+        1 sites already existed
+        0 sites were created:
+
+    0 distinct hostnames did not match any existing site:
+
+
+
+Performance summary
+-------------------
+
+    Total time: 16 seconds
+    Requests imported per second: 0.0 requests per second
+

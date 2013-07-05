@@ -1,0 +1,2 @@
+#avoid committing personalized Exclude files
+*.exclude
