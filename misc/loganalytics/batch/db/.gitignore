@@ -1,2 +1,0 @@
-#ignore committing populated sqlite db's
-*.db
